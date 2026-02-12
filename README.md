@@ -8,8 +8,6 @@ United States — Open to Relocate
 
 I work in cybersecurity operations, vulnerability management, and cloud security across regulated enterprise environments. My experience spans SIEM monitoring, incident triage, IAM workflows, and security risk reduction aligned with NIST frameworks.
 
-🛡 Currently Working On
-
 ### CVS Health — Cybersecurity Engineer
 
 Role: Security Operations & IAM Support
